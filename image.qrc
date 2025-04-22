@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/logo">
+        <file>resources/images/logo-modified.png</file>
+    </qresource>
+    <qresource prefix="/pymodule"/>
+</RCC>
